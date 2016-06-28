@@ -49,7 +49,7 @@ iPhone 4s 以上 (未使用 AutoLayout 适配多种尺寸屏幕)
 
 ### 版本控制：
 
-Git 并且将作品上传至 GitHub （https://github.com/cjiaqi/iOS-Diary-App）
+Git 并且将作品上传至 GitHub [https://github.com/cjiaqi/iOS-Diary-App](https://github.com/cjiaqi/iOS-Diary-App)
 
 ### 代码前缀：
 
